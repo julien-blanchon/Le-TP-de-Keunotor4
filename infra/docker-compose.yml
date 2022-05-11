@@ -1,0 +1,22 @@
+version: '3'
+services:
+  tc1:
+   image: tomcat:v1
+   hostname: tc2
+   ports:
+     - 8080
+   networks:
+     - mynet 
+  myhaproxy:
+    image: haproxy
+    depends_on:
+      - tc2
+    volumes:
+      - /Users/julienblanchon/Git/julien-blanchon/Le-TP-de-Keunotor4/infra/haprox_backup.cfg:/usr/local/etc/haproxy/haproxy.cfg
+    ports:
+      - 80:80
+    networks:
+      - mynet
+networks:
+  mynet:
+    driver: bridge
