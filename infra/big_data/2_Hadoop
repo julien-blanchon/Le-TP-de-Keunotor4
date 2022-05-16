@@ -1,0 +1,3 @@
+# 2 -  Hadoop
+
+Modèle du **[MapReduce](https://fr.wikipedia.org/wiki/MapReduce)**: On split les données en plusieurs fragments sur sur chaque machine. On execute le **Mappers** sur chaque machine qui traite la données. Ensuite le tout est envoyé a un/ou plusieurs **Reducers** qui agrège tout les résultat.

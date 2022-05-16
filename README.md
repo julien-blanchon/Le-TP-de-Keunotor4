@@ -36,15 +36,17 @@ Dépot git communs pour les TDs et TPs 2SN ModIA Semestre 2
       - ❌ TP2
       - ❌ TP3
       - ❌ TP4
+      - ❌ TP5
     - [Projets](./infra/cloud/projet/)
       - ❌ ...
     - [Annales](./infra/cloud/annales/) ❌
-  - [Big Data](./infra/big-data/tps)
+  - [Big Data](./infra/big-data/)
     - [TPs](./infra/tp/big-data/tps)
       - ❌ TP1
       - ❌ TP2
       - ❌ TP3
       - ❌ TP4
+      - ❌ TP5
     - [Projets](./infra/big-data/projet/)
       - ❌ ...
     - [Annales](./infra/big-data/annales/) ❌
