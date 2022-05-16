@@ -8,63 +8,73 @@ Dépot git communs pour les TDs et TPs 2SN ModIA Semestre 2
 
 - [Théorie des Graphes](./graphes/)
   - [TDs](./graphes/td)
-    - :white_check_mark: [TD1](./graphes/td/td1/TD1_Graphes_2020_Annote.pdf)
-    - :white_check_mark: [TD2](./graphes/td/td2/TD2_Graphes_2020_Annote.pdf)
-    - :white_check_mark: [TD3](./graphes/td/td3/TD3_Graphes_2020_Annote.pdf)
+    - ✅ [TD1](./graphes/td/td1/TD1_Graphes_2020_Annote.pdf)
+    - ✅ [TD2](./graphes/td/td2/TD2_Graphes_2020_Annote.pdf)
+    - ✅ [TD3](./graphes/td/td3/TD3_Graphes_2020_Annote.pdf)
   - [TPs](./graphes/tp)
-    - :white_check_mark: [TP1](./graphes/tp/tp1/graph21-22.ipynb)
+    - ✅ [TP1](./graphes/tp/tp1/graph21-22.ipynb)
   - [Projets](./graphes/projet/)
-    - [Projet Épidémie](./graphes/projet/) :white_check_mark:
-  - Partiel :white_check_mark:
+    - [Projet Épidémie](./graphes/projet/) ✅
+  - [Annales](./graphes/annales) ✅
 
 - [Analyse Hilbertienne](./hilbert/)
   - [TPs](./hilbert/tp/)
-    - :x: TP1
-    - :x: TP2
-    - :x: TP3
-  - [TDs](./hilbert/td)
-    - :x: TD1
-    - ...
+    - ❌ TP1
+    - ❌ TP2
+    - ❌ TP3
+  - [TDs](./hilbert/tds/)
+    - ✅ [TD1](./hilbert/tds/td1/)
+    - ❌ [TD2](./hilbert/tds/td2/)
   - [Projets](./hilbert/projet)
-    - :x: ...
-  - Partiel :x:
+    - ❌ ...
+  - [Annales](./hilbert/annales) ❌
 
 - [Infrastructure](./infra/)
-  - [TPs](./infra/tp/)
-    - :x: TP1
-    - :x: TP2
-    - :x: TP3
-    - :x: TP4
-  - [Projets](./infra/projet)
-    - :x: ...
-  - Partiel :x:
+  - [Cloud](./infra/cloud/)
+    - [TPs](./infra/cloud/tps)
+      - ❌ TP1
+      - ❌ TP2
+      - ❌ TP3
+      - ❌ TP4
+    - [Projets](./infra/cloud/projet/)
+      - ❌ ...
+    - [Annales](./infra/cloud/annales/) ❌
+  - [Big Data](./infra/big-data/tps)
+    - [TPs](./infra/tp/big-data/tps)
+      - ❌ TP1
+      - ❌ TP2
+      - ❌ TP3
+      - ❌ TP4
+    - [Projets](./infra/big-data/projet/)
+      - ❌ ...
+    - [Annales](./infra/big-data/annales/) ❌
 
 - [Machine Learning](./machine-learning/)
   - [TPs](./machine-learning/tp/)
-    - :x: TP1
-    - :x: TP2
-    - :x: TP3
-    - :x: TP4
+    - ❌ TP1
+    - ❌ TP2
+    - ❌ TP3
+    - ❌ TP4
   - [Projets](./machine-learning/projet/)
-    - :x: ...
-  - Partiel :x:
+    - ❌ ...
+  - [Annales](./machine-learning/annales) ❌
 
 - [Programmation Fonctionnelle](./progf/)
   - [TPs](./progf/tp/)
-    - :x: TP1
-    - :x: TP2
-    - :x: TP3
-    - :x: TP4
+    - ❌ TP1
+    - ❌ TP2
+    - ❌ TP3
+    - ❌ TP4
   - [Projets](./progf/projet/)
-    - :x: ...
-  - Partiel :x:
+    - ❌ ...
+  - [Annales](./progf/annales) ❌
 
 - [Espace de Hilbert à noyau reproduisant (RKHS)](./rkhs/)
   - [TPs](./rkhs/tp/)
-    - :x: TP1
-    - :x: TP2
-    - :x: TP3
-    - :x: TP4
+    - ❌ TP1
+    - ❌ TP2
+    - ❌ TP3
+    - ❌ TP4
   - [Projets](./rkhs/projet/)
-    - :x: ...
-  - Partiel :x:
+    - ❌ ...
+  - [Annales](./rkhs/annales) ❌
