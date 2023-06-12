@@ -1,0 +1,6 @@
+(library
+ (name partiel)
+ (inline_tests)
+ (modules partie1 partie2 partie3)
+ (preprocess
+  (pps ppx_inline_test)))
